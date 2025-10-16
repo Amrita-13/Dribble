@@ -190,7 +190,9 @@ style.css
 }
 ```
 ## OUTPUT:
-![alt text](image.png)
+<img width="1920" height="1020" alt="Screenshot 2025-10-16 122736" src="https://github.com/user-attachments/assets/bf4fd0f3-7629-450d-a94b-0d3956d8c74d" />
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
+
